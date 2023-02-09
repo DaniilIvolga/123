@@ -1,0 +1,15 @@
+C:\repo\code\zadanie001\bin\Debug\net7.0\zadanie001.exe
+C:\repo\code\zadanie001\bin\Debug\net7.0\zadanie001.deps.json
+C:\repo\code\zadanie001\bin\Debug\net7.0\zadanie001.runtimeconfig.json
+C:\repo\code\zadanie001\bin\Debug\net7.0\zadanie001.dll
+C:\repo\code\zadanie001\bin\Debug\net7.0\zadanie001.pdb
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.csproj.AssemblyReference.cache
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.AssemblyInfoInputs.cache
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.AssemblyInfo.cs
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.csproj.CoreCompileInputs.cache
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.dll
+C:\repo\code\zadanie001\obj\Debug\net7.0\refint\zadanie001.dll
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.pdb
+C:\repo\code\zadanie001\obj\Debug\net7.0\zadanie001.genruntimeconfig.cache
+C:\repo\code\zadanie001\obj\Debug\net7.0\ref\zadanie001.dll
