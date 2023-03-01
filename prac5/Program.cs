@@ -57,3 +57,40 @@ PrintArray(matrix);
 Console.WriteLine();
 FillArray2(matrix2);
 PrintArray2(matrix2);
+
+
+
+
+using StreamWriter sw = new StreamWriter("matrix2.csv");
+sw.Write("11;");
+sw.Write("12;");
+sw.WriteLine("13;");
+
+sw.Write("21;");
+sw.Write("22;");
+sw.WriteLine("23;");
+
+
+
+using StreamWriter sw = new StreamWriter("matrix2.csv");
+sw.Write("11;");
+sw.Write("12;");
+sw.WriteLine("13;");
+
+sw.Write("21;");
+sw.Write("22;");
+sw.WriteLine("23;");
+
+
+
+using StreamReader sr = new StreamReader("matrix2.csv.txt");
+
+while (!sr.EndOfStream)
+{
+  string[] s = sr.ReadLine().Split(new char[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
+  for (int i = 0; i < s.Length; i++)
+  {
+    System.Console.Write(" >>" + s[i] + "<< ");
+  }
+  System.Console.WriteLine();
+}
