@@ -63,8 +63,8 @@ Console.WriteLine("Число не является четным");
 8 -> 2, 4, 6, 8
 */
 
-/*
-Console.WriteLine("Введите N");
+
+/*Console.WriteLine("Введите N");
 int N = Convert.ToInt32(Console.ReadLine());
 int index = 1;
 while (index<= N)
@@ -75,4 +75,5 @@ Console.WriteLine(index);
 }
 index = index + 1;
 }
+
 */
